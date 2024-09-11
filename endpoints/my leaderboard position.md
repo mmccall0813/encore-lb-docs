@@ -7,9 +7,9 @@ Parameters:
 
 Possible responses:
 - code 200:
-	- a [[leaderboard entry]] object
+	- a [leaderboard entry](../data%20types/leaderboard%20entry.md) object
 - code 404, 401, 403, or 400:
-	- see [[common error codes]]
+	- see [common error codes](../other/common%20error%20codes.md)
 
 Example response:
 ```json

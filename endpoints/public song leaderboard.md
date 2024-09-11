@@ -10,9 +10,9 @@ Optional parameters:
 
 Possible responses:
 - code 200:
-	- a [[public leaderboard]] object
+	- a [public leaderboard](../data%20types/public%20leaderboard.md) object
 - code 404: 
-	- see [[common error codes]]
+	- see [common error codes](../other/common%20error%20codes.md)
 
 Example response:
 ```json

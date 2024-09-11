@@ -1,4 +1,4 @@
-A leaderboard entry is sent by the [[my leaderboard position]] endpoint and an array of leaderboard entries along with some other data is sent by the [[public song leaderboard]] endpoint.
+A leaderboard entry is sent by the [my leaderboard position](../endpoints/my%20leaderboard%20position.md) endpoint and an array of leaderboard entries along with some other data is sent by the [public song leaderboard](../endpoints/public%20song%20leaderboard.md) endpoint.
 
 A leaderboard entry is structured like so:
 ```json

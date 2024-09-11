@@ -1,4 +1,4 @@
-A leaderboard submission is the info that you need to send with a [[submit score]] endpoint call.
+A leaderboard submission is the info that you need to send with a [submit score](../endpoints/submit%20score.md) endpoint call.
 
 A leaderboard submission is structured like so:
 ```json

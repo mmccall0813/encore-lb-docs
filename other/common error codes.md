@@ -10,6 +10,6 @@
 	- The song you were trying to make a leaderboard for is disallowed from having a leaderboard.
 ## 404
 - The song you were trying to get a leaderboard for doesn't exist.
-- In the case of a [[my leaderboard position]] request, you don't have a leaderboard position for that instrument/song combination.
+- In the case of a [my leaderboard position](../endpoints/my%20leaderboard%20position.md) request, you don't have a leaderboard position for that instrument/song combination.
 ## 520
  - Something unexpected happened when performing a database action. This *should* never happen, and if this is returned, something very bad has likely happened to the database.
