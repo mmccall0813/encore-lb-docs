@@ -1,0 +1,5 @@
+# syncthing, what i used before git
+.stfolder
+
+# stuff there is specific to the way i have my obsidian editor laid out and is not relevant to the repo
+.obsidian
