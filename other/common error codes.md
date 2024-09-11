@@ -1,7 +1,7 @@
 ## 400
 - You didn't send all required information in the request. (invalid parameters, incorrect request body, etc.)
 ## 401
-- You didn't send an authorization header, or the one you sent was invalid (see [authenticating](authenticating.md).
+- You didn't send an authorization header, or the one you sent was invalid (see [authenticating](authenticating.md)).
 ## 403
  - The meaning of this depends on the response content.
  - "You are blacklisted from making requests to this API."
