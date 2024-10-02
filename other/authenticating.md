@@ -1,8 +1,8 @@
-To access an authorized endpoint, you need to include an authorization header with your request. The header should contain your API key encoded into base64 with "`Bearer `"  at the beginning.
+To access an authorized endpoint, you need to include an authorization header with your request. The header should contain your API key in plaintext with "`Bearer `"  at the beginning.
 
 Example of a valid auth header (assuming the API key exists on the server):
 ```
-authorization: Bearer eW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ==
+authorization: Bearer hawktuah
 ```
 
 ### Obtaining an API key
