@@ -1,4 +1,4 @@
-To access an authorized endpoint, you need to include an authorization header with your request. The header should contain your API key in plaintext with "`Bearer `"  at the beginning.
+To access an authorized endpoint, you need to include an authorization header with your request. The header should contain your API key in plaintext with "`Bearer `"  at the beginning. Alternatively, you can use the built-in Bearer auth with your HTTP lib if it's supported.
 
 Example of a valid auth header (assuming the API key exists on the server):
 ```

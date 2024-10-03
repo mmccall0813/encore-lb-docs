@@ -7,6 +7,6 @@ Request Body:
 
 Possible Responses:
 - 200:
-	- score submitted successfully
+	- a [score submission response](../data%20types/score%20submission%20response.md)
 - 401, 403, 404, or 520:
 	- see [common error codes](../other/common%20error%20codes.md)
